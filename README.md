@@ -17,3 +17,6 @@ This program is written mainly by AI (DeepSeek) so there's problems.
  - Undone interface
 ### Fate of program
 I'm not so good at coding, so I pass this program in your hands to fork it. The project will not be uptaded and it'll be archived. 
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/MichaelDeMire/camera-image-distortion/blob/main/LICENSE) file for details.
